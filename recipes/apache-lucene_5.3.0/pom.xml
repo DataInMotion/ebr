@@ -45,13 +45,14 @@
 			<module>org.apache.lucene.spatial</module> 
 			<module>org.apache.lucene.spatial3d</module> 
 			<module>org.apache.lucene.suggest</module>
-			<module>repository</module>
-<!-- 			<module>org.apache.uima.core_2.3.1</module>  -->
-<!-- 			<module>org.apache.uima.tagger_2.3.1</module>  -->
-<!-- 			<module>org.apache.uima.whitespacetokenizer_2.3.1</module>  -->
-<!-- 			<module>org.carrot2.morfologik.fsa_1.7.1</module>  -->
-<!-- 			<module>org.carrot2.morfologik.polish_1.7.1</module>  -->
-<!-- 			<module>org.carrot2.morfologik.stemming_1.7.1</module>  -->
+			<module>org.apache.uima.core_2.3.1</module> 
+			<module>org.apache.uima.tagger_2.3.1</module> 
+			<module>org.apache.uima.whitespacetokenizer_2.3.1</module> 
+			<module>org.carrot2.morfologik.fsa_1.7.1</module> 
+			<module>org.carrot2.morfologik.polish_1.7.1</module> 
+			<module>org.carrot2.morfologik.stemming_1.7.1</module> 
+			<module>com.carrotsearch.hppc_0.5.4</module> 
+<!-- 			<module>repository</module> -->
 	</modules>
 
 </project>
