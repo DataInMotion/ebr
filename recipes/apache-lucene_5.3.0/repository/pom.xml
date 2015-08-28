@@ -212,42 +212,30 @@
 			<version>0.4.1</version>
 		</dependency>
 		<dependency>
-			<groupId>com.spatial4j</groupId>
-			<artifactId>spatial4j</artifactId>
-			<version>0.4.1</version>
-			<classifier>sources</classifier>
-		</dependency>
-		<dependency>
 			<groupId>com.ibm.icu</groupId>
 			<artifactId>icu4j</artifactId>
 			<version>54.1</version>
 		</dependency>
 		<dependency>
-			<groupId>com.ibm.icu</groupId>
-			<artifactId>icu4j</artifactId>
-			<version>54.1</version>
-			<classifier>sources</classifier>
+			<groupId>org.ow2.asm</groupId>
+			<artifactId>asm</artifactId>
+			<version>4.1</version>
 		</dependency>
-		<!-- <dependency> -->
-		<!-- <groupId>org.ow2.asm</groupId> -->
-		<!-- <artifactId>asm</artifactId> -->
-		<!-- <version>4.1</version> -->
-		<!-- </dependency> -->
-		<!-- <dependency> -->
-		<!-- <groupId>org.ow2.asm</groupId> -->
-		<!-- <artifactId>asm-commons</artifactId> -->
-		<!-- <version>4.1</version> -->
-		<!-- </dependency> -->
+		<dependency>
+			<groupId>org.ow2.asm</groupId>
+			<artifactId>asm-commons</artifactId>
+			<version>4.1</version>
+		</dependency>
 		<!-- <dependency> -->
 		<!-- <groupId>MY_EBR_BUNDLES_GROUP</groupId> -->
 		<!-- <artifactId>jakarta-regexp</artifactId> -->
 		<!-- <version>1.4-SNAPSHOT</version> -->
 		<!-- </dependency> -->
-		<!-- <dependency> -->
-		<!-- <groupId>oantlr</groupId> -->
-		<!-- <artifactId>antlr-runtime</artifactId> -->
-		<!-- <version>3.5-SNAPSHOT</version> -->
-		<!-- </dependency> -->
+		<dependency>
+			<groupId>MY_EBR_BUNDLES_GROUP</groupId>
+			<artifactId>org.antlr</artifactId>
+			<version>3.5.0-SNAPSHOT</version>
+		</dependency>
 		<dependency>
 			<groupId>MY_EBR_BUNDLES_GROUP</groupId>
 			<artifactId>org.carrot2.morfologik.fsa</artifactId>

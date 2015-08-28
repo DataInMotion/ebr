@@ -27,6 +27,9 @@
 							<excludes>
 								<plugin id="com.spatial4j" />
 								<plugin id="com.ibm.icu" />
+								<plugin id="javax.xml" />
+								<plugin id="org.objectweb.asm" />
+								<plugin id="org.objectweb.asm.commons" />
 							</excludes>
 						</configuration>
 					</execution>

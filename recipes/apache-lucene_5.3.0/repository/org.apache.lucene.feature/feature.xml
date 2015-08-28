@@ -213,6 +213,10 @@
    limitations under the License.
    </license>
 
+   <requires>
+      <import plugin="javax.xml"/>
+   </requires>
+
    <plugin
          id="org.apache.lucene.core"
          download-size="0"
@@ -450,9 +454,30 @@
          install-size="0"
          version="0.0.0"
          unpack="false"/>
-         
+
    <plugin
          id="com.carrotsearch.hppc"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+         
+      <plugin
+         id="org.objectweb.asm"
+         download-size="0"
+         install-size="0"
+         version="4.1"
+         unpack="false"/>
+
+   <plugin
+         id="org.objectweb.asm.commons"
+         download-size="0"
+         install-size="0"
+         version="4.1"
+         unpack="false"/>
+         
+   <plugin
+         id="org.antlr"
          download-size="0"
          install-size="0"
          version="0.0.0"
